@@ -7,4 +7,4 @@ View a voxel model. File format is customized by myself.
 这里,基于`CMake`和`OpenGL`,自行编写了一个体素显示软件.
 软件写的不是很好,基本上只能算是一个demo吧.
 
-![bunny_example_512](img/bunny_512_0.png)
+![bunny_example_512](img/bunny_512_0.png =800x700)
