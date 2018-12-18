@@ -9,7 +9,13 @@ View a voxel model. File format is customized by myself.
 
 <img src="img/bunny_512_0.jpeg" width="600" />
 
-# 编译要求
+# Win编译要求
+在windows环境下，使用的dll和头文件全部放在了文件里。
+使用Visual Studio 2013打开。
+配置好之后可正常运行。
+
+
+# Linux 编译要求
 在Ubuntu环境下,要求安装`OpenGL`和`GLUT`
 
 目前可在`Clion`下编译运行

@@ -1,0 +1,26 @@
+﻿生成启动时间为 2018/5/11 21:48:42。
+     1>项目“D:\Documents\Visual Studio 2013\Projects\VoxelViewer\VoxelViewer\VoxelViewer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Documents\Visual Studio 2013\Projects\VoxelViewer\VoxelViewer\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(72): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(73): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(114): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(115): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(119): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(121): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(124): warning C4244: “参数”: 从“int”转换到“const GLfloat”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(129): warning C4244: “参数”: 从“int”转换到“const GLfloat”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(133): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(134): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(251): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\voxelviewer\voxelviewer\main.cpp(251): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents\Visual Studio 2013\Projects\VoxelViewer\Debug\VoxelViewer.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Documents\Visual Studio 2013\Projects\VoxelViewer\VoxelViewer\lib" freeglut32.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Documents\Visual Studio 2013\Projects\VoxelViewer\Debug\VoxelViewer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents\Visual Studio 2013\Projects\VoxelViewer\Debug\VoxelViewer.lib" /MACHINE:X86 Debug\main.obj
+         Debug\mainGPU.obj
+         VoxelViewer.vcxproj -> D:\Documents\Visual Studio 2013\Projects\VoxelViewer\Debug\VoxelViewer.exe
+     1>已完成生成项目“D:\Documents\Visual Studio 2013\Projects\VoxelViewer\VoxelViewer\VoxelViewer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.26
