@@ -13,7 +13,7 @@ View a voxel model. File format is customized by myself.
 ```
 size 12 12 12 
 3.5 4.5 5.5 1 0 
-3.5 4.5 4.5 0.5 0
+3.5 4.5 4.5 0.5 1
 ```
 
 第一行表示整个模型的大小，格式为`size x y z`，以空格分开。<br>
