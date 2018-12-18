@@ -8,3 +8,13 @@ View a voxel model. File format is customized by myself.
 软件写的不是很好,基本上只能算是一个demo吧.
 
 <img src="img/bunny_512_0.jpeg" width="600" />
+
+# 编译要求
+在Ubuntu环境下,要求安装`OpenGL`和`GLUT`
+
+目前可在`Clion`下编译运行
+
+# TODO
+- 规范化代码
+- 规范化ReadMe
+- 输出二进制版本
